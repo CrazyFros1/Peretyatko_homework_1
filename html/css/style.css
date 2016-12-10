@@ -1,0 +1,60 @@
+body {
+    text-align:  center;
+    background-color: #f6f4f2;
+}
+.photo {
+    width: 201px ;
+    height: 202px ;
+}
+.school {
+    position:relative;
+    right: 40px;
+}
+h2 {
+ position:relative;
+ text-align: left;
+    right: -750px;
+}
+.interes {
+   position:relative;
+   text-align: left;
+   right: -750px;
+
+}
+.line {
+    width: 501px;
+    height: 10px;
+    padding: 33px;
+}   
+}
+.profile {
+    position: relative;
+    right: 49px;
+    bottom: 42px;
+}
+.profile2 {
+    bottom: 27px;
+    right: 51px;
+    position:relative;
+}
+.number {
+    bottom: 2px;
+    position:relative;
+    right: 115px
+}
+.link {
+    bottom: 71px;
+    position:relative;
+    right: -143px;
+    font-style: italic;
+}
+.feedback {
+    position:relative;
+    bottom: 33px;
+    right: 115px;
+ }
+.feddback2{
+    position:relative;
+    right: 35px;
+    bottom: 9px;
+}
