@@ -1,0 +1,73 @@
+body {
+    background: #f9f9f9;
+}
+.site {
+    background-color: white;
+    margin: 0 auto;
+    width: 1060px;
+	height: 950px;
+	display: block;
+}
+.logo {
+    position: relative;
+    bottom: -52px;
+    left: 46px;
+}
+.menu {
+width: 900px;
+}
+ .menu {
+     width: 966px;
+     height: 40px;
+     display: block;
+     position: relative;
+     background-image: linear-gradient(to top, #444343 0%, #5e5e5e 100%);
+     bottom: -130px;
+     margin: 0 auto;
+     text-align: center;
+}
+.menu1, .menu2, .menu3, .menu4 {
+    display: inline-block;
+    line-height: 40px;
+    text-shadow: 0.5px 0.9px 1px rgba(0, 0, 0, 0.5);
+    float: left;
+    width: 120px;
+
+}
+a {
+    text-decoration: none; }
+.g {
+    font-size: 17px;
+    color: white;
+}
+.menu1:hover, .menu2:hover, .menu3:hover, .menu4:hover {
+    background: #343434;
+    border-left: 1px solid #838383;
+    border-right: 1px solid #838383;
+    
+}
+.box {
+    padding-left: 46px;
+    width: 240px;
+    position: relative;
+    top: 226px;
+    height: 240px;
+    display: block;
+    left: 50;
+
+}
+.right1,.right2,.right3,.right4,.right5,.right6 {
+    width: 240px;
+	height: 39px;
+	display: block;
+	line-height: 39px;
+	text-align: center;
+	border: 1px solid #c8c8c8;
+    color: #656363;
+    left: 4px;
+    position: relative;
+}
+.menuright{  
+font-size: 13px;
+line-height: 35px;
+}
