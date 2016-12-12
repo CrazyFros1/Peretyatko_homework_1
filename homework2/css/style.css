@@ -10,7 +10,7 @@ body {
 }
 .logo {
     position: relative;
-    bottom: -52px;
+    bottom: -39px;
     left: 46px;
 }
 .menu {
@@ -22,7 +22,7 @@ width: 900px;
      display: block;
      position: relative;
      background-image: linear-gradient(to top, #444343 0%, #5e5e5e 100%);
-     bottom: -130px;
+     bottom: -72px;
      margin: 0 auto;
      text-align: center;
 }
@@ -50,10 +50,10 @@ a {
     padding-left: 46px;
     width: 240px;
     position: relative;
-    top: 226px;
     height: 240px;
     display: block;
     left: 50;
+    top: 116px;
 
 }
 .right1,.right2,.right3,.right4,.right5,.right6 {
@@ -68,6 +68,48 @@ a {
     position: relative;
 }
 .menuright{  
-font-size: 13px;
+font-size: 17px;
 line-height: 35px;
+}
+.menuright:hover {
+    background-color: #f9f9f9;
+    padding-left: 20px;
+}
+.product {
+    position: relative;
+    width: 677px;
+	left: 335px;
+	top: -124px;
+}
+.description {
+    position: relative;
+    top: 37px;
+    display:block;
+    font-size: 17px;
+    line-height: 1.7;
+    padding-left: 17px;
+    width: 625px;
+    height: 144px;
+}
+.footer {
+    display: block;
+    height: 40px;
+    width: 966px;
+    background-image: linear-gradient(to top, #e1e1e1 0%, #e1e1e1 100%);
+    background-color: white;
+    padding-left: 50px;
+}
+.footerm1, .footerm2, .footerm3, .footerm4, .footerm5 {
+ text-align: center;
+ float: left;
+ width: 100px;
+ height: 40px;
+ display: inline-block;
+ text-align: center;
+ line-height: 40px;
+
+     }
+.fotmenu:hover {
+    border-bottom: 1px: solid #595959;
+    
 }
