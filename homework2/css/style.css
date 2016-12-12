@@ -100,16 +100,21 @@ line-height: 35px;
     padding-left: 50px;
 }
 .footerm1, .footerm2, .footerm3, .footerm4, .footerm5 {
- text-align: center;
  float: left;
- width: 100px;
+ width: 130px;
  height: 40px;
  display: inline-block;
  text-align: center;
  line-height: 40px;
 
      }
+.fotmenu {
+  color: #2c2c2c;
+}
 .fotmenu:hover {
-    border-bottom: 1px: solid #595959;
-    
+	border-bottom: 1px solid #2C2C2C;
+}
+.footerm5 {
+    width: 164px;
+	padding-left: 235px;
 }
