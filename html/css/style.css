@@ -11,9 +11,10 @@
     right: 40px;
 }
 h2 {
- position:relative;
- text-align: left;
-    right: -750px;
+  position:relative;
+  text-align: left;
+  right: -751px;
+  bottom: 22px;
 }
 .interes {
    position:relative;
@@ -23,8 +24,9 @@ h2 {
 }
 .line {
     width: 501px;
-    height: 10px;
-    padding: 33px;
+    height: 1px;
+    padding: 12px;
+    bottom: 50px;
 }   
 }
 .profile {
@@ -38,14 +40,14 @@ h2 {
     position:relative;
 }
 .number {
-    bottom: 2px;
+    bottom: 30px;
     position:relative;
     right: 115px
 }
 .link {
-    bottom: 71px;
+    bottom: 42px;
     position:relative;
-    right: -143px;
+    right: -127px;
     font-style: italic;
 }
 .feedback {
@@ -55,6 +57,13 @@ h2 {
  }
 .feddback2{
     position:relative;
-    right: 35px;
-    bottom: 9px;
+    right: 21px;
+    bottom: 28px;
+}
+h1 {
+padding: 0auto;    
+}
+ul li {
+    position:relative;
+    bottom: 17px;
 }
